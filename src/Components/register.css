@@ -1,0 +1,17 @@
+.regbody{
+    background-color: lightgreen;
+    padding: 20px;
+}
+.table1{
+    background-color: #fff;
+}
+th{
+    padding: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid rgb(241, 20, 20);
+    border-left: 1px solid rgb(7, 23, 237);
+    border-right: 1px solid rgb(255, 3, 209);
+}
+input{
+    border: 0px;
+}

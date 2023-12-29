@@ -1,0 +1,112 @@
+.bodyfron{
+    background-color:lightgreen;
+    height: 100vx;
+    margin-top: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+.ddddd h1{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    padding: 5px;
+    padding-bottom: 5PX;
+}
+.NarBar{
+    background-color: rgb(181, 177, 185);
+    padding: 0px;
+    margin: 0px;
+}
+.NarBar a{
+    display: inline-flex;
+    font-size: 25px;
+    text-align: center;
+    float: right;
+    padding: 10px;
+    margin:10px;
+    text-decoration: none;
+    color: red;
+  }
+  ol{
+    background-color: chartreuse;
+    padding: 10px;
+    /* width: 90%; */
+    margin-bottom: 1%;
+    border-radius: 20px;
+    text-align: center;
+  }
+.link{
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: x-large;
+}
+.link:hover{
+    background-color: rgba(255, 255, 255, 0.696);
+    color: blue;
+    border-radius: 30px;
+    text-decoration: overline;
+}
+.indexbutton{
+    height: 100vx;
+    display: flex;
+}
+.bodyfron{
+    padding: 15px;
+    margin: 15px;
+}
+.box1{
+    width: 15%;
+    /* background: #000; */
+    padding: 15px;
+    margin: 15px;
+}
+.box1 img{
+    width: 200px;
+    border-radius: 50%;
+}
+.box2{
+    width: 35%;
+    /* background-color: red; */
+    padding: 15px;
+    margin: 15px;
+}
+.box2 img{
+    width: 400px;
+    border-radius: 50%;
+}
+.box3{
+    width: 35%;
+    /* background-color: aqua; */
+    padding: 15px;
+    margin: 15px;
+}
+.box3 button{
+    width: 50%;
+    justify-content: center;
+    align-self: center;
+    font-size: 15px;
+    
+}
+.box4{
+    width: 15%;
+    /* background-color: rgb(233, 99, 126); */
+    padding: 15px;
+    margin: 15px;
+}
+.box4 img{
+    width: 200px;
+    border-radius: 50%;
+}
+.rotated-image {
+    animation: rotate 0.1s linear infinite; /* Rotate 360 degrees in 0.5 seconds */
+  }
+  
+  @keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+  }

@@ -1,0 +1,40 @@
+.di1{
+    margin-right: 40px;
+    width: 400px;
+    height: 350px;
+    border-radius: 50%;
+}
+.di2{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    border-radius: 30px;
+}
+.dicebody{
+    background-color: lightgreen;
+    height: 70vh;
+}
+.DiceNumbers{
+    width: 35px;
+    margin: 5px;
+    padding: 2px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;   
+    cursor: grabbing;
+}
+.DiceNumbers:hover{
+    background-color: lightgreen;
+    color: white;
+}
+.selectednumbertext{
+    font-size: 20px;
+}
+.selectednumdisp{
+    font-size: 20px;
+    color: red;
+    text-decoration: underline;
+}
